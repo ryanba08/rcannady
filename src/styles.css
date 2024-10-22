@@ -23,3 +23,10 @@ html {
 h1 {
   color: rgb(65, 65, 65);
 }
+
+.pp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
